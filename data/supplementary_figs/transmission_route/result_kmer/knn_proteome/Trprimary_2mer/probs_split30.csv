@@ -1,0 +1,30 @@
+prob_direct contact,prob_faecal-oral,prob_respiratory,prob_vector,taxid,true,pred
+0.0,0.0,1.0,0.0,3052480,respiratory,respiratory
+0.0,0.0,0.0,1.0,3052463,vector,vector
+0.6779717324228619,0.0,0.0,0.322028267577138,11723,direct contact,direct contact
+0.0,0.0,0.0,1.0,1972579,vector,vector
+0.6863439249424137,0.3136560750575863,0.0,0.0,3052557,direct contact,direct contact
+0.0,0.36041917521728767,0.0,0.6395808247827123,28876,faecal-oral,vector
+0.0,0.0,0.0,1.0,3052464,vector,vector
+0.0,0.0,0.0,1.0,1972572,vector,vector
+0.0,0.0,1.0,0.0,3052498,respiratory,respiratory
+0.3486945859113709,0.0,0.0,0.6513054140886292,3048175,vector,vector
+0.0,0.0,1.0,0.0,3052314,direct contact,respiratory
+0.0,0.0,0.0,1.0,60875,vector,vector
+0.0,0.0,0.0,1.0,2956252,faecal-oral,vector
+0.0,0.0,0.6659898963811341,0.3340101036188658,693997,faecal-oral,respiratory
+0.0,0.0,0.0,1.0,11020,vector,vector
+0.0,0.0,0.0,1.0,11029,vector,vector
+1.0,0.0,0.0,0.0,11292,direct contact,direct contact
+0.6629564420697726,0.0,0.0,0.3370435579302275,2955465,direct contact,direct contact
+0.32925302459600025,0.34479367689354945,0.0,0.3259532985104503,3051375,direct contact,faecal-oral
+0.0,0.0,0.0,1.0,3048440,vector,vector
+0.0,0.0,0.0,1.0,3048225,vector,vector
+0.0,0.0,0.0,1.0,3048215,vector,vector
+0.0,0.0,1.0,0.0,2169991,respiratory,respiratory
+0.0,0.0,0.0,1.0,59304,vector,vector
+0.0,0.0,0.0,1.0,2169701,vector,vector
+1.0,0.0,0.0,0.0,138951,direct contact,direct contact
+0.6712770789613339,0.328722921038666,0.0,0.0,3052560,direct contact,direct contact
+0.3326218446288785,0.0,0.0,0.6673781553711216,1239565,faecal-oral,vector
+0.0,0.0,1.0,0.0,11137,respiratory,respiratory

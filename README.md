@@ -2,6 +2,6 @@
 
 
 ## Workflow
-![Architecture of vhPPIpred](./fig_saved/Fig1B_workflow.png)
 
+Update ...
 

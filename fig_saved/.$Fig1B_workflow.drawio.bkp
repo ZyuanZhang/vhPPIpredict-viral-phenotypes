@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram id="bt2ogqtOtCWbMkH628mD" name="Fig.1B">
-    <mxGraphModel dx="2643" dy="1313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -396,13 +396,13 @@
         <mxCell id="s_HFflHHgMRSqBYC2Rsw-184" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Predict human infectivity (HI)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="641.1" y="102.92999999999995" width="135" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="s_HFflHHgMRSqBYC2Rsw-185" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Predict viral transmission route (TRO)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="s_HFflHHgMRSqBYC2Rsw-185" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Predict viral transmission route (TR)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780.72" y="102.92999999999995" width="189" height="18" as="geometry" />
         </mxCell>
         <mxCell id="s_HFflHHgMRSqBYC2Rsw-186" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Predict viral tissue tropism (TT)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="641.1" y="266.38" width="328" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="s_HFflHHgMRSqBYC2Rsw-187" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Predict viral transmissibility (TMS)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="s_HFflHHgMRSqBYC2Rsw-187" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Predict human transmissibility (HT)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="641.1" y="190.74" width="328.5" height="18" as="geometry" />
         </mxCell>
         <mxCell id="s_HFflHHgMRSqBYC2Rsw-188" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;rotation=90;" parent="1" vertex="1">

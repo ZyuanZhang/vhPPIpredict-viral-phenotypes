@@ -5,7 +5,7 @@ Update ...
 2026-1-31
 
 ## Workflow for predicting viral phenotypes based on virus-human PPIs
-![Workflow of phenotype prediction](./fig_saved/Fig1B_workflow.png)
+![Workflow of phenotype prediction](./fig_saved/Fig1B_workflow.pdf)
 
 ## Requirements
 ```python

@@ -1,0 +1,309 @@
+START:  Wed Sep  3 11:45:18 2025
+Top 50 features:
+      accuracy  precision    recall        f1       auc
+mean  0.848333   0.805000  0.640000  0.687000  0.910000
+std   0.123308   0.340046  0.333939  0.303954  0.134817
+Top 100 features:
+      accuracy  precision    recall        f1       auc
+mean  0.835000   0.765000  0.605000  0.651333  0.890000
+std   0.143108   0.384969  0.357425  0.340608  0.164791
+Top 150 features:
+      accuracy  precision    recall        f1       auc
+mean  0.826667   0.740000  0.565000  0.617667  0.867500
+std   0.135918   0.403631  0.359959  0.349553  0.180155
+Top 200 features:
+      accuracy  precision    recall        f1       auc
+mean  0.836667   0.811667  0.590000  0.658667  0.880000
+std   0.129707   0.357425  0.328603  0.309016  0.179145
+Top 250 features:
+      accuracy  precision  recall        f1       auc
+mean  0.826667   0.768333  0.5500  0.618333  0.848125
+std   0.127393   0.392047  0.3371  0.330064  0.191612
+Top 300 features:
+      accuracy  precision    recall        f1       auc
+mean  0.811667   0.710000  0.565000  0.605333  0.845625
+std   0.145364   0.403144  0.366908  0.350652  0.189791
+Top 350 features:
+      accuracy  precision    recall        f1       auc
+mean  0.796667   0.678333  0.520000  0.562667  0.846875
+std   0.130998   0.412525  0.354766  0.341393  0.180395
+Top 400 features:
+      accuracy  precision    recall        f1      auc
+mean  0.790000   0.675000  0.520000  0.559667  0.83750
+std   0.143353   0.422019  0.361814  0.349002  0.18292
+Top 450 features:
+      accuracy  precision    recall        f1       auc
+mean  0.798333   0.683333  0.505000  0.559667  0.808750
+std   0.144668   0.429352  0.358835  0.359364  0.203896
+Top 500 features:
+      accuracy  precision    recall       f1       auc
+mean  0.796667   0.663333  0.515000  0.55700  0.812500
+std   0.141302   0.423748  0.365529  0.35852  0.201008
+Top 550 features:
+      accuracy  precision    recall        f1       auc
+mean  0.783333   0.636667  0.495000  0.537000  0.793125
+std   0.143117   0.423350  0.358835  0.357316  0.210911
+Top 600 features:
+      accuracy  precision    recall        f1       auc
+mean  0.765000   0.627333  0.480000  0.520714  0.803125
+std   0.159078   0.430002  0.354766  0.353084  0.220904
+Top 650 features:
+      accuracy  precision    recall        f1       auc
+mean  0.751667   0.591667  0.445000  0.485667  0.791875
+std   0.156230   0.437525  0.347393  0.351692  0.217244
+Top 700 features:
+      accuracy  precision    recall        f1      auc
+mean  0.770000   0.620000  0.460000  0.509333  0.77250
+std   0.151276   0.437496  0.353053  0.360044  0.22605
+Top 750 features:
+      accuracy  precision    recall        f1       auc
+mean  0.791667   0.678333  0.520000  0.566667  0.783750
+std   0.148647   0.413883  0.354766  0.348639  0.228117
+Top 800 features:
+      accuracy  precision    recall        f1       auc
+mean  0.771667   0.631667  0.465000  0.512333  0.768125
+std   0.147282   0.440191  0.357142  0.356522  0.205913
+Top 850 features:
+      accuracy  precision    recall        f1       auc
+mean  0.776667   0.623333  0.490000  0.528667  0.788750
+std   0.155736   0.432036  0.362232  0.364995  0.209613
+Top 900 features:
+      accuracy  precision    recall        f1       auc
+mean  0.783333   0.635000  0.500000  0.535667  0.775625
+std   0.135048   0.420234  0.362372  0.351436  0.247477
+Top 950 features:
+      accuracy  precision   recall        f1       auc
+mean  0.751667   0.581667  0.41500  0.465333  0.756875
+std   0.145055   0.446645  0.33375  0.350402  0.218663
+Top 1000 features:
+      accuracy  precision    recall        f1       auc
+mean  0.743333   0.574167  0.400000  0.452333  0.760625
+std   0.138980   0.443322  0.317821  0.337458  0.207775
+Top 1050 features:
+      accuracy  precision    recall        f1       auc
+mean  0.750000   0.566667  0.425000  0.467333  0.768125
+std   0.139141   0.432283  0.336162  0.347025  0.234577
+Top 1100 features:
+      accuracy  precision    recall        f1       auc
+mean    0.7550   0.556667  0.465000  0.488000  0.758750
+std     0.1469   0.419917  0.364144  0.359746  0.219227
+Top 1150 features:
+      accuracy  precision   recall        f1       auc
+mean  0.758333   0.589167  0.47500  0.501333  0.760000
+std   0.150523   0.427265  0.35799  0.352255  0.213888
+Top 1200 features:
+      accuracy  precision    recall        f1       auc
+mean  0.745000   0.571667  0.440000  0.476333  0.756875
+std   0.143029   0.423930  0.335448  0.339680  0.217397
+Top 1250 features:
+      accuracy  precision    recall        f1       auc
+mean  0.765000   0.604000  0.455000  0.498381  0.759375
+std   0.153696   0.444578  0.363033  0.366795  0.242204
+Top 1300 features:
+      accuracy  precision  recall        f1      auc
+mean  0.761667   0.591667  0.4300  0.475667  0.75375
+std   0.136608   0.447825  0.3483  0.354508  0.22223
+Top 1350 features:
+      accuracy  precision    recall        f1       auc
+mean  0.773333   0.630000  0.490000  0.529333  0.750625
+std   0.154470   0.428751  0.362232  0.358957  0.225871
+Top 1400 features:
+      accuracy  precision    recall        f1       auc
+mean  0.760000   0.583333  0.420000  0.471333  0.771875
+std   0.148543   0.451646  0.346118  0.363763  0.225500
+Top 1450 features:
+      accuracy  precision    recall        f1       auc
+mean  0.751667   0.530000  0.400000  0.436000  0.747500
+std   0.135038   0.452813  0.362372  0.367589  0.202556
+Top 1500 features:
+      accuracy  precision    recall        f1       auc
+mean  0.756667   0.562500  0.485000  0.498333  0.753750
+std   0.159650   0.428105  0.385698  0.371558  0.220268
+Top 1550 features:
+      accuracy  precision    recall        f1       auc
+mean  0.755000    0.59000  0.445000  0.483000  0.758125
+std   0.154351    0.44534  0.361639  0.359214  0.227292
+Top 1600 features:
+      accuracy  precision    recall        f1       auc
+mean  0.760000   0.590000  0.465000  0.497333  0.746250
+std   0.155916   0.438994  0.364144  0.363598  0.225928
+Top 1650 features:
+      accuracy  precision    recall        f1       auc
+mean  0.763333   0.595000  0.480000  0.511333  0.767500
+std   0.157456   0.429845  0.368727  0.366015  0.236718
+Top 1700 features:
+      accuracy  precision    recall        f1       auc
+mean  0.761667   0.571667  0.435000  0.472000  0.765625
+std   0.138646   0.445236  0.359959  0.361836  0.213270
+Top 1750 features:
+      accuracy  precision    recall        f1       auc
+mean  0.766667   0.653333  0.485000  0.533667  0.766250
+std   0.157135   0.418886  0.336763  0.336767  0.237473
+Top 1800 features:
+      accuracy  precision    recall        f1       auc
+mean  0.763333   0.600833  0.470000  0.507667  0.750625
+std   0.160980   0.436690  0.361115  0.366126  0.213847
+Top 1850 features:
+      accuracy  precision    recall        f1       auc
+mean  0.768333   0.598333  0.470000  0.506667  0.770000
+std   0.147738   0.431695  0.361115  0.362186  0.234507
+Top 1900 features:
+      accuracy  precision    recall        f1       auc
+mean  0.735000   0.555000  0.425000  0.460333  0.733750
+std   0.151859   0.432967  0.336162  0.344679  0.231585
+Top 1950 features:
+      accuracy  precision    recall        f1       auc
+mean  0.758333   0.556667  0.440000  0.474000  0.751875
+std   0.154206   0.445214  0.371184  0.377022  0.227950
+Top 2000 features:
+      accuracy  precision    recall        f1       auc
+mean  0.776667   0.632333  0.485000  0.528714  0.733750
+std   0.153924   0.430760  0.358553  0.360546  0.246603
+END:  Wed Sep  3 11:54:01 2025
+START:  Wed Sep  3 11:54:55 2025
+Top 10 features:
+      accuracy  precision    recall        f1       auc
+mean   0.83500   0.780667  0.785000  0.750714  0.902500
+std    0.15623   0.280179  0.286524  0.243695  0.137712
+Top 20 features:
+      accuracy  precision    recall        f1       auc
+mean  0.858333   0.811667  0.690000  0.717667  0.929375
+std   0.128391   0.328803  0.339191  0.301119  0.109397
+Top 30 features:
+      accuracy  precision    recall        f1       auc
+mean  0.870000   0.848333  0.700000  0.737333  0.931875
+std   0.117446   0.307131  0.325669  0.283844  0.116536
+Top 40 features:
+      accuracy  precision    recall        f1       auc
+mean  0.858333   0.827500  0.685000  0.723000  0.920625
+std   0.134788   0.317877  0.322983  0.290813  0.130514
+END:  Wed Sep  3 11:55:38 2025
+START:  Wed Sep  3 14:18:33 2025
+Top 21 features:
+      accuracy  precision    recall        f1       auc
+mean  0.858333   0.816667  0.700000  0.725333  0.916875
+std   0.134788   0.322640  0.333333  0.295500  0.136195
+Top 22 features:
+      accuracy  precision    recall        f1       auc
+mean  0.868333   0.843333  0.725000  0.748000  0.941250
+std   0.121474   0.297596  0.320787  0.273823  0.104665
+Top 23 features:
+      accuracy  precision   recall        f1       auc
+mean  0.870000   0.790000  0.75000  0.748333  0.928125
+std   0.137273   0.329626  0.34451  0.313640  0.130066
+Top 24 features:
+      accuracy  precision    recall        f1       auc
+mean  0.866667   0.845000  0.725000  0.752000  0.918125
+std   0.123091   0.281545  0.304636  0.260334  0.138391
+Top 25 features:
+      accuracy  precision    recall        f1       auc
+mean  0.868333   0.843333  0.735000  0.757667  0.933125
+std   0.128216   0.284090  0.305298  0.263528  0.109613
+Top 26 features:
+      accuracy  precision   recall        f1       auc
+mean  0.865000   0.817333  0.73000  0.745714  0.920625
+std   0.139534   0.314644  0.32891  0.294007  0.133799
+Top 27 features:
+      accuracy  precision    recall        f1       auc
+mean  0.870000   0.841667  0.705000  0.740333  0.914375
+std   0.128838   0.312815  0.326405  0.290875  0.138949
+Top 28 features:
+      accuracy  precision    recall        f1       auc
+mean  0.860000   0.855000  0.685000  0.732000  0.906250
+std   0.122452   0.286876  0.306948  0.262933  0.151929
+Top 29 features:
+      accuracy  precision    recall        f1       auc
+mean  0.850000   0.796667  0.655000  0.691000  0.894375
+std   0.128664   0.350228  0.345936  0.314871  0.164689
+Top 30 features:
+      accuracy  precision    recall        f1       auc
+mean  0.870000   0.848333  0.700000  0.737333  0.931875
+std   0.117446   0.307131  0.325669  0.283844  0.116536
+Top 31 features:
+      accuracy  precision    recall        f1       auc
+mean  0.866667   0.831667  0.680000  0.724333  0.927500
+std   0.123091   0.320892  0.329677  0.298476  0.117422
+Top 32 features:
+      accuracy  precision    recall        f1       auc
+mean  0.863333   0.841667  0.650000  0.710333  0.906875
+std   0.123955   0.328564  0.329524  0.302763  0.139753
+Top 33 features:
+      accuracy  precision    recall        f1       auc
+mean  0.888333   0.873333  0.725000  0.767333  0.931875
+std   0.113744   0.289277  0.320787  0.280611  0.140204
+Top 34 features:
+      accuracy  precision    recall       f1       auc
+mean  0.868333   0.835000  0.685000  0.72800  0.920625
+std   0.130386   0.328667  0.338259  0.30718  0.123365
+Top 35 features:
+      accuracy  precision   recall        f1       auc
+mean  0.865000   0.828333  0.68000  0.722333  0.916250
+std   0.133365   0.332874  0.33725  0.308614  0.128493
+Top 36 features:
+      accuracy  precision    recall        f1       auc
+mean   0.87500   0.843333  0.695000  0.737333  0.925625
+std    0.11933   0.316777  0.332537  0.298303  0.134340
+Top 37 features:
+      accuracy  precision    recall        f1       auc
+mean  0.865000   0.848333  0.675000  0.721000  0.928125
+std   0.115312   0.316135  0.328564  0.287551  0.126996
+Top 38 features:
+      accuracy  precision    recall        f1       auc
+mean  0.865000   0.835667  0.720000  0.746048  0.934375
+std   0.129089   0.294325  0.312371  0.272290  0.119637
+Top 39 features:
+      accuracy  precision    recall        f1       auc
+mean  0.865000   0.824000  0.685000  0.722048  0.926250
+std   0.129089   0.332257  0.338259  0.307101  0.116294
+END:  Wed Sep  3 14:21:51 2025
+START:  Wed Sep  3 14:54:43 2025
+Traceback (most recent call last):
+  File "ppiBinary_ML_val.py", line 158, in <module>
+    ppiBinary_rf_val_hpv()
+  File "ppiBinary_ML_val.py", line 57, in ppiBinary_rf_val_hpv
+    df.set_index('taxid', inplace=True)
+  File "/data/150T/databases/help_zhangzhiyuan/SOFTWARES/miniconda3-gpu/envs/pyg_gpu/lib/python3.8/site-packages/pandas/core/frame.py", line 5859, in set_index
+    raise KeyError(f"None of {missing} are in the columns")
+KeyError: "None of ['taxid'] are in the columns"
+START:  Wed Sep  3 14:56:16 2025
+(38, 3100)
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.843333   0.788333  0.615000  0.663667  0.917500  0.901667
+std   0.133628   0.374447  0.354303  0.330530  0.146745  0.166245
+END:  Wed Sep  3 14:56:29 2025
+START:  Wed Sep  3 15:17:20 2025
+(38, 3100)
+Traceback (most recent call last):
+  File "ppiBinary_ML_val.py", line 145, in <module>
+    ppiBinary_rf_val_hpv()
+  File "ppiBinary_ML_val.py", line 98, in ppiBinary_rf_val_hpv
+    cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=repeat)
+NameError: name 'StratifiedKFold' is not defined
+START:  Wed Sep  3 15:18:25 2025
+(38, 3100)
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.859474   0.870123  0.658333  0.746761  0.903189  0.866196
+std   0.032868   0.083260  0.069571  0.059981  0.029126  0.035149
+Traceback (most recent call last):
+  File "ppiBinary_ML_val.py", line 141, in <module>
+    ppiBinary_rf_val_hpv()
+  File "ppiBinary_ML_val.py", line 130, in ppiBinary_rf_val_hpv
+    best_params_df = pd.DataFrame(best_params_list)
+NameError: name 'best_params_list' is not defined
+START:  Wed Sep  3 15:19:23 2025
+(38, 3100)
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.859474   0.870123  0.658333  0.746761  0.903189  0.866196
+std   0.032868   0.083260  0.069571  0.059981  0.029126  0.035149
+Traceback (most recent call last):
+  File "ppiBinary_ML_val.py", line 138, in <module>
+    ppiBinary_rf_val_hpv()
+  File "ppiBinary_ML_val.py", line 130, in ppiBinary_rf_val_hpv
+    print(f"===== {k}-mer Summary =====")
+NameError: name 'k' is not defined
+START:  Wed Sep  3 15:20:29 2025
+(38, 3100)
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.859474   0.870123  0.658333  0.746761  0.903189  0.866196
+std   0.032868   0.083260  0.069571  0.059981  0.029126  0.035149
+END:  Wed Sep  3 15:20:48 2025

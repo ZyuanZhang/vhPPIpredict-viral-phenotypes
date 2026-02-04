@@ -1,0 +1,105 @@
+START:  Thu Aug 28 10:08:51 2025
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.754145   0.762890  0.783689  0.772420  0.821119  0.849348
+std   0.027979   0.026884  0.045769  0.028858  0.027922  0.026360
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.749845   0.759935  0.777767  0.768070  0.814865  0.841969
+std   0.028713   0.027875  0.044392  0.029038  0.028995  0.028032
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.733057   0.745254  0.760971  0.752123  0.802063  0.830747
+std   0.029655   0.029343  0.049578  0.031135  0.030739  0.032944
+END:  Thu Aug 28 12:27:30 2025
+START:  Thu Aug 28 12:40:32 2025
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.749948   0.765652  0.767670  0.765894  0.815648  0.817114
+std   0.024796   0.027200  0.040685  0.024831  0.027025  0.035330
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.747150   0.763359  0.763883  0.762771  0.809061  0.820836
+std   0.028589   0.027389  0.048590  0.030048  0.028179  0.036089
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.752435   0.765261  0.774757  0.769209  0.809700  0.819795
+std   0.028328   0.027992  0.045181  0.028643  0.028073  0.034771
+END:  Thu Aug 28 14:30:02 2025
+START:  Thu Aug 28 14:48:05 2025
+Traceback (most recent call last):
+  File "genome_kmer_ML_val.py", line 349, in <module>
+    kmer_knn_val_paperdataset()
+  File "genome_kmer_ML_val.py", line 315, in kmer_knn_val_paperdataset
+    grid = GridSearchCV(KNeighborsClassifier(), param_grid, cv=5, scoring='roc_auc', n_jobs=32)
+NameError: name 'KNeighborsClassifier' is not defined
+START:  Thu Aug 28 14:48:46 2025
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.743523   0.744088  0.792913  0.767157  0.820692  0.850826
+std   0.031517   0.029655  0.043682  0.030354  0.028809  0.024930
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.732746   0.740554  0.769903  0.754292  0.809306  0.841226
+std   0.030650   0.030033  0.043996  0.029905  0.030228  0.025937
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.717254   0.732958  0.742233  0.736641  0.794987  0.831917
+std   0.028809   0.032108  0.044766  0.028787  0.031230  0.026589
+END:  Thu Aug 28 14:51:34 2025
+START:  Fri Aug 29 10:35:55 2025
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.723627   0.737132  0.750583  0.743223  0.796019  0.830729
+std   0.030976   0.029947  0.042638  0.030320  0.029855  0.027553
+END:  Fri Aug 29 10:36:58 2025
+START:  Fri Aug 29 10:38:00 2025
+(1284, 769)
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.730259   0.739837  0.764951  0.751351  0.797923  0.824081
+std   0.033489   0.034378  0.047449  0.032429  0.031365  0.032081
+END:  Fri Aug 29 11:32:41 2025
+START:  Sat Aug 30 17:31:17 2025
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.761399   0.772223  0.786117  0.778407  0.828040  0.857719
+std   0.027950   0.030994  0.039814  0.026859  0.025002  0.022487
+END:  Sat Aug 30 17:54:59 2025
+START:  Sat Aug 30 18:09:56 2025
+Traceback (most recent call last):
+  File "proteome_esm2_ML_test.py", line 108, in <module>
+    proteome_esm2_rf_val_mydataset()
+NameError: name 'proteome_esm2_rf_val_mydataset' is not defined
+START:  Sat Aug 30 18:16:32 2025
+(1284, 641)
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.764352   0.792690  0.757476  0.773913  0.842520  0.871041
+std   0.027382   0.028748  0.043833  0.028877  0.024993  0.022770
+END:  Sat Aug 30 19:18:18 2025
+START:  Sat Aug 30 19:29:45 2025
+ppiBinary_ML_test.py:16: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df = df.groupby('taxid', as_index=False).max()
+(1284, 12867)
+Traceback (most recent call last):
+  File "ppiBinary_ML_test.py", line 126, in <module>
+    ppiBinary_rf_test_mydataset()
+  File "ppiBinary_ML_test.py", line 28, in ppiBinary_rf_test_mydataset
+    feature_importances_df = pd.read_csv("../result/rf_feature_importances_100.csv")
+  File "/data/150T/databases/help_zhangzhiyuan/SOFTWARES/miniconda3-gpu/envs/pyg_gpu/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/data/150T/databases/help_zhangzhiyuan/SOFTWARES/miniconda3-gpu/envs/pyg_gpu/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/data/150T/databases/help_zhangzhiyuan/SOFTWARES/miniconda3-gpu/envs/pyg_gpu/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/data/150T/databases/help_zhangzhiyuan/SOFTWARES/miniconda3-gpu/envs/pyg_gpu/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/data/150T/databases/help_zhangzhiyuan/SOFTWARES/miniconda3-gpu/envs/pyg_gpu/lib/python3.8/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '../result/rf_feature_importances_100.csv'
+START:  Sat Aug 30 19:36:31 2025
+(1284, 12867)
+ppiBinary_ML_test.py:16: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df = df.groupby('taxid', as_index=False).max()
+      accuracy  precision    recall        f1     auroc     auprc
+mean  0.783782   0.816750  0.768252  0.791128  0.855104  0.873975
+std   0.026057   0.030063  0.037606  0.026139  0.023345  0.025279
+END:  Sat Aug 30 19:46:44 2025
+START: Sun Aug 31 15:33:54 2025
+Traceback (most recent call last):
+  File "shap_analysis.py", line 90, in <module>
+    ppiBinary_rf_test_mydataset_shap_analysis()
+NameError: name 'ppiBinary_rf_test_mydataset_shap_analysis' is not defined
+START: Sun Aug 31 15:36:55 2025
+Final dataset shape: (1284, 12867)
+DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+Best Params: {'max_depth': 20, 'n_estimators': 100}
+END: Sun Aug 31 15:39:09 2025

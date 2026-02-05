@@ -3,6 +3,9 @@
 ## Workflow for predicting viral phenotypes based on virus-human PPIs
 ![Workflow of phenotype prediction](./fig_saved/Fig1B_workflow.png)
 
+## OS Requirements
+All scripts were tested on Ubuntu 24.04.2 LTS operating systems.
+
 ## Requirements
 ```python
 Python==3.8.20
@@ -13,9 +16,6 @@ pandas==2.0.3
 numpy==1.24.4
 matplotlib==3.7.5
 ```
-
-## OS Requirements
-All scripts were tested on Ubuntu 24.04.2 LTS operating systems.
 
 ## Reproduce figures in paper
 The folder (`./scripts/reproduce_figures/`) contains all scripts for reproducing figures shown in paper.

@@ -8,7 +8,7 @@ dt_v451_rna = read.csv("./data/low_evidence_virus/v403_rna_for_sankey_new.csv", 
 
 df_v451 <- dt_v451_rna %>%
   #make_long(infect_human_label, transmission_route_label, tissue_tropism_pred_label, virulence_label, infectivity_label) 
-  make_long(Genome.Type, Transmission.Route, Tissue.Tropism, Virulence, Transmissibility) 
+  make_long(Genome.Type, Transmission.Route, Tissue.Tropism, virulence, Transmissibility) 
 
 
 ggplot(df_v451, aes(x = x, 

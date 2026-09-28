@@ -1,0 +1,101 @@
+0
+"KNeighborsClassifier(metric='manhattan', n_neighbors=3)"
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3, weights='distance')"
+"KNeighborsClassifier(metric='manhattan', n_neighbors=3)"
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='manhattan', n_neighbors=3, weights='distance')"
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3)"
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='manhattan', weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=7, weights='distance')"
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='manhattan', n_neighbors=3)"
+"KNeighborsClassifier(metric='manhattan', n_neighbors=3)"
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3, weights='distance')"
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3)"
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=7)"
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3)"
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='manhattan', weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='manhattan', n_neighbors=7)"
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='manhattan', weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='manhattan', n_neighbors=3)"
+"KNeighborsClassifier(metric='euclidean', n_neighbors=7)"
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3)"
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3, weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3)"
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='manhattan', n_neighbors=7)"
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='manhattan', weights='distance')"
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='euclidean')
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='euclidean')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3, weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='euclidean', n_neighbors=3)"
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='manhattan', weights='distance')"
+"KNeighborsClassifier(metric='euclidean', weights='distance')"
+KNeighborsClassifier(metric='manhattan')
+KNeighborsClassifier(metric='manhattan')
+"KNeighborsClassifier(metric='manhattan', n_neighbors=3)"

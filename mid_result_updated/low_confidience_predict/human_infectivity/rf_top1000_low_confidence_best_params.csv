@@ -1,0 +1,2 @@
+max_depth,n_estimators,cv_auroc
+20,100,0.6676137826074383

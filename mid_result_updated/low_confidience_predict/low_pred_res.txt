@@ -1,0 +1,320 @@
+Taxid,Virulence,Genome Type,Species,Transmissibility,Tissue Tropism,Transmission Route
+1076281,nonsevere,ssRNA(-),Hantavirus XAHu09011,no human-to-human,viraemic,respiratory
+1076282,nonsevere,ssRNA(-),Hantavirus XAHu09027,no human-to-human,viraemic,respiratory
+1076283,nonsevere,ssRNA(-),Hantavirus XAHu09041,no human-to-human,viraemic,respiratory
+1076284,nonsevere,ssRNA(-),Hantavirus XAHu09047,no human-to-human,viraemic,respiratory
+1076285,nonsevere,ssRNA(-),Hantavirus XAHu09066,no human-to-human,viraemic,respiratory
+1095764,nonsevere,ssRNA(+),Caliciviridae Hu/GII.4/Xiamen/May0511/2010/CHN,sustained human-to-human,gastrointestinal,faecal-oral
+1112700,nonsevere,ssRNA(+),Cosavirus JFD-2011,sustained human-to-human,gastrointestinal,faecal-oral
+1156749,nonsevere,ssRNA(+),Enterovirus strain IGIB-NIV-02,sustained human-to-human,gastrointestinal,faecal-oral
+1176484,nonsevere,ssRNA(+),Canine vesivirus,sustained human-to-human,gastrointestinal,faecal-oral
+1181292,nonsevere,ssRNA(+),Human cosavirus E/D,sustained human-to-human,gastrointestinal,faecal-oral
+1186059,nonsevere,ssRNA(+),Human astrovirus MLB2,sustained human-to-human,gastrointestinal,faecal-oral
+1194164,nonsevere,ssRNA(+),Cosavirus IND/2010,sustained human-to-human,gastrointestinal,faecal-oral
+1221646,nonsevere,ssRNA(+),Human cosavirus RdRp-18,sustained human-to-human,gastrointestinal,faecal-oral
+1222038,nonsevere,ssRNA(+),Human cosavirus RdRp-22,sustained human-to-human,gastrointestinal,faecal-oral
+1222039,nonsevere,ssRNA(+),Human cosavirus RdRp-25,sustained human-to-human,gastrointestinal,faecal-oral
+1222040,nonsevere,ssRNA(+),Human cosavirus RdRp-33,sustained human-to-human,gastrointestinal,faecal-oral
+1222041,nonsevere,ssRNA(+),Human cosavirus RdRp-37,sustained human-to-human,gastrointestinal,faecal-oral
+1222042,nonsevere,ssRNA(+),Human cosavirus RdRp-39,sustained human-to-human,gastrointestinal,faecal-oral
+1222043,nonsevere,ssRNA(+),Human cosavirus RdRp-58,sustained human-to-human,gastrointestinal,faecal-oral
+1222044,nonsevere,ssRNA(+),Human cosavirus RdRp-59,sustained human-to-human,gastrointestinal,faecal-oral
+1222045,nonsevere,ssRNA(+),Human cosavirus RdRp-74,sustained human-to-human,gastrointestinal,faecal-oral
+1222046,nonsevere,ssRNA(+),Human cosavirus RdRp-86,sustained human-to-human,gastrointestinal,faecal-oral
+1222047,nonsevere,ssRNA(+),Human cosavirus RdRp-91,sustained human-to-human,gastrointestinal,faecal-oral
+1222048,nonsevere,ssRNA(+),Human cosavirus RdRp-94,sustained human-to-human,gastrointestinal,faecal-oral
+1222049,nonsevere,ssRNA(+),Human cosavirus RdRp-97,sustained human-to-human,gastrointestinal,faecal-oral
+1222050,nonsevere,ssRNA(+),Human cosavirus RdRp-99,sustained human-to-human,gastrointestinal,faecal-oral
+1222051,nonsevere,ssRNA(+),Human cosavirus RdRp-125,sustained human-to-human,gastrointestinal,faecal-oral
+1293419,nonsevere,ssRNA(+),Astrovirus 2010_Msc_17636_VA3/HMO,sustained human-to-human,gastrointestinal,faecal-oral
+1293420,nonsevere,ssRNA(+),Astrovirus 2010_Msc_18001_MLB,sustained human-to-human,gastrointestinal,faecal-oral
+1330993,nonsevere,ssRNA(+),Salivirus BOL/03-10653E,sustained human-to-human,gastrointestinal,faecal-oral
+1402035,nonsevere,ssRNA(-),Orthobunyavirus FSL2923,sustained human-to-human,gastrointestinal,faecal-oral
+1417603,nonsevere,ssRNA(-),Hantavirus Hu/BRA/32H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417604,nonsevere,ssRNA(-),Hantavirus Hu/BRA/46H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417605,nonsevere,ssRNA(-),Hantavirus Hu/BRA/169H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417606,nonsevere,ssRNA(-),Hantavirus Hu/BRA/213H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417607,nonsevere,ssRNA(-),Hantavirus Hu/BRA/256H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417608,nonsevere,ssRNA(-),Hantavirus Hu/BRA/268H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417609,nonsevere,ssRNA(-),Hantavirus Hu/BRA/274H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417610,nonsevere,ssRNA(-),Hantavirus Hu/BRA/292H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417611,nonsevere,ssRNA(-),Hantavirus Hu/BRA/305H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417612,nonsevere,ssRNA(-),Hantavirus Hu/BRA/389H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417613,nonsevere,ssRNA(-),Hantavirus Hu/BRA/395H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417614,nonsevere,ssRNA(-),Hantavirus Hu/BRA/417H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417615,nonsevere,ssRNA(-),Hantavirus Hu/BRA/420H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417616,nonsevere,ssRNA(-),Hantavirus Hu/BRA/452H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417617,nonsevere,ssRNA(-),Hantavirus Hu/BRA/461H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417618,nonsevere,ssRNA(-),Hantavirus Hu/BRA/462H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1417619,nonsevere,ssRNA(-),Hantavirus Hu/BRA/511H/2009,sustained human-to-human,gastrointestinal,faecal-oral
+1437125,nonsevere,ssRNA(-/+),Cardamones virus,sustained human-to-human,gastrointestinal,faecal-oral
+1521109,nonsevere,ssRNA(+),Enterovirus C151_oct11_cons,sustained human-to-human,gastrointestinal,faecal-oral
+1523264,nonsevere,ssRNA(+),Human rhinovirus R18,sustained human-to-human,gastrointestinal,faecal-oral
+1523265,nonsevere,ssRNA(+),Human rhinovirus R2,sustained human-to-human,gastrointestinal,faecal-oral
+1523266,nonsevere,ssRNA(+),Human rhinovirus R20,sustained human-to-human,gastrointestinal,faecal-oral
+1523268,nonsevere,ssRNA(+),Human rhinovirus R22,sustained human-to-human,gastrointestinal,faecal-oral
+1523271,nonsevere,ssRNA(+),Human rhinovirus R29,sustained human-to-human,gastrointestinal,faecal-oral
+1523272,nonsevere,ssRNA(+),Human rhinovirus R3,sustained human-to-human,gastrointestinal,faecal-oral
+1523273,nonsevere,ssRNA(+),Human rhinovirus R33,sustained human-to-human,gastrointestinal,faecal-oral
+1523276,nonsevere,ssRNA(+),Human rhinovirus R38,sustained human-to-human,gastrointestinal,faecal-oral
+1523277,nonsevere,ssRNA(+),Human rhinovirus R39,sustained human-to-human,gastrointestinal,faecal-oral
+1523278,nonsevere,ssRNA(+),Human rhinovirus R41,sustained human-to-human,gastrointestinal,faecal-oral
+1523281,nonsevere,ssRNA(+),Human rhinovirus R49,sustained human-to-human,gastrointestinal,faecal-oral
+1523282,nonsevere,ssRNA(+),Human rhinovirus R55,sustained human-to-human,gastrointestinal,faecal-oral
+1523285,nonsevere,ssRNA(+),Human rhinovirus R66,sustained human-to-human,gastrointestinal,faecal-oral
+1523287,nonsevere,ssRNA(+),Human rhinovirus R73,sustained human-to-human,gastrointestinal,faecal-oral
+1523288,nonsevere,ssRNA(+),Human rhinovirus R81,sustained human-to-human,gastrointestinal,faecal-oral
+1523289,nonsevere,ssRNA(+),Human rhinovirus R82,sustained human-to-human,gastrointestinal,faecal-oral
+1525176,nonsevere,dsRNA,Human picobirnavirus VS6600008,sustained human-to-human,gastrointestinal,faecal-oral
+1525177,nonsevere,dsRNA,Picobirnavirus VS6600023,sustained human-to-human,gastrointestinal,faecal-oral
+1525178,nonsevere,dsRNA,Picobirnavirus VS6600025,sustained human-to-human,gastrointestinal,faecal-oral
+1525179,nonsevere,dsRNA,Picobirnavirus VS6600034,sustained human-to-human,gastrointestinal,faecal-oral
+1548189,nonsevere,ssRNA(+),Human salivirus,sustained human-to-human,gastrointestinal,faecal-oral
+1569923,nonsevere,ssRNA(+),Human echovirus,sustained human-to-human,gastrointestinal,faecal-oral
+1602211,nonsevere,ssRNA(+),Astrovirus VA1/HMO-C,sustained human-to-human,gastrointestinal,faecal-oral
+1609130,nonsevere,ssRNA(+),Astrovirus VA5,sustained human-to-human,gastrointestinal,faecal-oral
+1609131,nonsevere,ssRNA(+),Astrovirus dogfaeces/Bari,sustained human-to-human,gastrointestinal,faecal-oral
+1615798,nonsevere,ssRNA(-),Ekpoma virus,sustained human-to-human,gastrointestinal,faecal-oral
+1714296,nonsevere,ssRNA(+),Husavirus ACS160,sustained human-to-human,gastrointestinal,faecal-oral
+1714297,nonsevere,ssRNA(+),Husavirus ACS178,sustained human-to-human,gastrointestinal,faecal-oral
+1714298,nonsevere,ssRNA(+),Husavirus ACS200,sustained human-to-human,gastrointestinal,faecal-oral
+1714360,nonsevere,ssRNA(+),Cardiovirus Hu/1873/Yamagata/2013,sustained human-to-human,gastrointestinal,faecal-oral
+1714361,nonsevere,ssRNA(+),Cardiovirus Hu/1881/Yamagata/2012,sustained human-to-human,gastrointestinal,faecal-oral
+178530,nonsevere,ssRNA(+),Astrovirus sp.,sustained human-to-human,gastrointestinal,faecal-oral
+1899067,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV071595/2007/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899068,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV074151/2007/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899069,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV075904/2007/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899070,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV076106/2007/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899071,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV076111/2007/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899072,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV077926/2007/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899073,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV0814778/2008/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899074,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV0816953/2008/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899075,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV083518/2008/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899076,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV084708/2008/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899077,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV085334/2008/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899078,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV089309/2008/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899080,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV0916007/2009/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899081,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV094581/2009/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899082,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV1031131/2010/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899083,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV1044610/2010/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899084,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV117296/2011/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899085,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV117298/2011/India,sustained human-to-human,gastrointestinal,faecal-oral
+1899086,nonsevere,ssRNA(+),Sapovirus Hu/Pune/NIV117301/2011/India,sustained human-to-human,gastrointestinal,faecal-oral
+1906931,nonsevere,dsRNA,Human rotavirus,sustained human-to-human,gastrointestinal,vector
+1907787,nonsevere,dsRNA,Picobirnavirus sp.,sustained human-to-human,gastrointestinal,faecal-oral
+1912147,nonsevere,ssRNA(+),Mamastrovirus sp.,sustained human-to-human,gastrointestinal,faecal-oral
+1933176,nonsevere,ssRNA(-),Orthobunyavirus cuchillaense,sustained human-to-human,gastrointestinal,faecal-oral
+2022413,nonsevere,ssRNA(-),Orthohantavirus sp.,no human-to-human,viraemic,direct contact
+2039694,nonsevere,ssRNA(+),Salivirus sp.,sustained human-to-human,gastrointestinal,faecal-oral
+2044876,nonsevere,ssRNA(+),Human hepegivirus 1,sustained human-to-human,gastrointestinal,faecal-oral
+2053898,nonsevere,ssRNA(+),Astrovirus VA6,sustained human-to-human,gastrointestinal,faecal-oral
+2094719,nonsevere,ssRNA(+),Kobuvirus sp.,sustained human-to-human,gastrointestinal,faecal-oral
+2169479,nonsevere,dsRNA,Lysoka picobirna-like virus,sustained human-to-human,gastrointestinal,faecal-oral
+2170060,nonsevere,ssRNA(-),Zegla orthobunyavirus,sustained human-to-human,gastrointestinal,faecal-oral
+2184749,nonsevere,dsRNA,Human blood-associated partitivirus,sustained human-to-human,gastrointestinal,faecal-oral
+2219046,nonsevere,ssRNA(+),Recovirus sp.,sustained human-to-human,gastrointestinal,faecal-oral
+2219048,nonsevere,ssRNA(+),Husavirus VSAD,sustained human-to-human,gastrointestinal,faecal-oral
+2219052,nonsevere,ssRNA(+),Fesa-like virus,sustained human-to-human,gastrointestinal,faecal-oral
+2219053,nonsevere,ssRNA(+),Fisa-like virus,sustained human-to-human,gastrointestinal,faecal-oral
+2219997,nonsevere,ssRNA(-),Orthobunyavirus sp.,sustained human-to-human,gastrointestinal,faecal-oral
+230161,nonsevere,ssRNA(+),uncultured enterovirus,sustained human-to-human,gastrointestinal,faecal-oral
+235406,nonsevere,ssRNA(+),untyped human enterovirus,sustained human-to-human,gastrointestinal,faecal-oral
+2364099,nonsevere,ssRNA(-),Nyangole orthobunyavirus,sustained human-to-human,gastrointestinal,faecal-oral
+2498143,nonsevere,ssRNA(+),Pegivirus sp.,sustained human-to-human,gastrointestinal,faecal-oral
+2602438,nonsevere,ssRNA(+),Guapiacu virus,sustained human-to-human,gastrointestinal,faecal-oral
+261202,nonsevere,ssRNA(-),Alto Paraguay hantavirus,no human-to-human,viraemic,direct contact
+2716315,nonsevere,ssRNA(+),Manych virus,sustained human-to-human,gastrointestinal,faecal-oral
+2778245,nonsevere,ssRNA(+),Husavirus XZ110_XZ_CHN_2017,sustained human-to-human,gastrointestinal,faecal-oral
+2778246,nonsevere,ssRNA(+),Husavirus XZ112_XZ_CHN_2017,sustained human-to-human,gastrointestinal,faecal-oral
+2778247,nonsevere,ssRNA(+),Husavirus XZ111_XZ_CHN_2017,sustained human-to-human,gastrointestinal,faecal-oral
+2778248,nonsevere,ssRNA(+),Husavirus XZ114_XZ_CHN_2017,sustained human-to-human,gastrointestinal,faecal-oral
+2778249,nonsevere,ssRNA(+),Husavirus XZ115_XZ_CHN_2017,sustained human-to-human,gastrointestinal,faecal-oral
+2778250,nonsevere,ssRNA(+),Husavirus XZ93_XZ_CHN_2017,sustained human-to-human,gastrointestinal,faecal-oral
+2778251,nonsevere,ssRNA(+),Husavirus XZ97_XZ_CHN_2017,sustained human-to-human,gastrointestinal,faecal-oral
+2778252,nonsevere,ssRNA(+),Husavirus XZ98_XZ_CHN_2017,sustained human-to-human,gastrointestinal,faecal-oral
+2778253,nonsevere,ssRNA(+),Husavirus XZ99_XZ_CHN_2017,sustained human-to-human,gastrointestinal,faecal-oral
+29256,nonsevere,dsRNA,Trichomonas vaginalis virus,sustained human-to-human,gastrointestinal,faecal-oral
+2936928,nonsevere,dsRNA,California hare coltivirus,sustained human-to-human,gastrointestinal,faecal-oral
+295016,nonsevere,dsRNA,Human rotavirus ADRV-N,sustained human-to-human,gastrointestinal,faecal-oral
+2956251,nonsevere,dsRNA,Orthopicobirnavirus equi,sustained human-to-human,gastrointestinal,faecal-oral
+2994337,nonsevere,ssRNA(+),Human hepatitis E virus genotype 3,sustained human-to-human,gastrointestinal,faecal-oral
+3047370,nonsevere,ssRNA(+),Orthoflavivirus apoiense,sustained human-to-human,gastrointestinal,faecal-oral
+3048206,nonsevere,ssRNA(+),Orthoflavivirus montanaense,sustained human-to-human,gastrointestinal,faecal-oral
+3050329,nonsevere,ssRNA(-),Orthopneumovirus muris,sustained human-to-human,gastrointestinal,faecal-oral
+3052343,nonsevere,ssRNA(-),Morbillivirus caprinae,sustained human-to-human,gastrointestinal,faecal-oral
+3052370,nonsevere,ssRNA(-),Orthobunyavirus bakauense,sustained human-to-human,gastrointestinal,faecal-oral
+3052393,nonsevere,ssRNA(-),Orthobunyavirus gamboaense,sustained human-to-human,gastrointestinal,faecal-oral
+3052394,nonsevere,ssRNA(-),Orthobunyavirus ganganense,sustained human-to-human,gastrointestinal,faecal-oral
+3052400,nonsevere,ssRNA(-),Orthobunyavirus ingwavumaense,sustained human-to-human,gastrointestinal,faecal-oral
+3052416,nonsevere,ssRNA(-),Orthobunyavirus manzanillaense,sustained human-to-human,gastrointestinal,faecal-oral
+3052421,nonsevere,ssRNA(-),Orthobunyavirus mermetense,sustained human-to-human,gastrointestinal,faecal-oral
+3052424,nonsevere,ssRNA(-),Orthobunyavirus mpokoense,sustained human-to-human,gastrointestinal,faecal-oral
+3052445,nonsevere,ssRNA(-),Orthobunyavirus tahynaense,no human-to-human,gastrointestinal,faecal-oral
+3052457,nonsevere,ssRNA(-),Orthoebolavirus bombaliense,no human-to-human,gastrointestinal,faecal-oral
+3052467,nonsevere,ssRNA(+),Orthoflavivirus kedougouense,sustained human-to-human,gastrointestinal,faecal-oral
+3052510,nonsevere,ssRNA(-),Orthonairovirus bushkeyense,no human-to-human,gastrointestinal,faecal-oral
+3052521,nonsevere,ssRNA(-),Orthonairovirus issykkulense,sustained human-to-human,gastrointestinal,faecal-oral
+3052525,nonsevere,ssRNA(-),Orthonairovirus khani,sustained human-to-human,gastrointestinal,faecal-oral
+3052538,nonsevere,ssRNA(-),Orthonairovirus tomdiense,sustained human-to-human,gastrointestinal,faecal-oral
+3052637,nonsevere,ssRNA(-/+),Phlebovirus bujaruense,no human-to-human,gastrointestinal,direct contact
+3052679,nonsevere,ssRNA(-/+),Phlebovirus salehabadense,no human-to-human,gastrointestinal,faecal-oral
+3052809,nonsevere,ssRNA(-/+),Uukuvirus tyulenyense,sustained human-to-human,gastrointestinal,faecal-oral
+3060496,nonsevere,ssRNA(-),Orthobunyavirus okolaense,sustained human-to-human,gastrointestinal,faecal-oral
+3060500,nonsevere,ssRNA(-),Orthobunyavirus tangaense,sustained human-to-human,gastrointestinal,faecal-oral
+308159,nonsevere,ssRNA(-),Araucaria virus,no human-to-human,viraemic,faecal-oral
+3428509,nonsevere,ssRNA(+),Enterovirus geswini,sustained human-to-human,gastrointestinal,faecal-oral
+3428512,nonsevere,ssRNA(+),Enterovirus jesimi,sustained human-to-human,gastrointestinal,faecal-oral
+3430625,nonsevere,ssRNA(+),Mamastrovirus canis,sustained human-to-human,gastrointestinal,faecal-oral
+3430637,nonsevere,ssRNA(+),Mamastrovirus suisorientalis,sustained human-to-human,gastrointestinal,faecal-oral
+3430642,nonsevere,ssRNA(+),Mamastrovirus zalophi,sustained human-to-human,gastrointestinal,faecal-oral
+348136,nonsevere,dsRNA,Human rotavirus B219,sustained human-to-human,gastrointestinal,faecal-oral
+3703354,nonsevere,ssRNA(+),Orthoflavivirus mediterranense,sustained human-to-human,gastrointestinal,faecal-oral
+3703637,nonsevere,ssRNA(-/+),Uukuvirus boleense,sustained human-to-human,gastrointestinal,faecal-oral
+38016,nonsevere,ssRNA(-),Hantavirus HTN,sustained human-to-human,gastrointestinal,faecal-oral
+384335,nonsevere,ssRNA(+),Human coronavirus NO,sustained human-to-human,gastrointestinal,faecal-oral
+38768,nonsevere,ssRNA(-),European bat lyssavirus,no human-to-human,viraemic,faecal-oral
+433730,nonsevere,ssRNA(+),Human rhinovirus AMS323,sustained human-to-human,gastrointestinal,faecal-oral
+433731,nonsevere,ssRNA(+),Human echovirus AMS721,sustained human-to-human,gastrointestinal,faecal-oral
+433732,nonsevere,ssRNA(+),Human echovirus AMS573,sustained human-to-human,gastrointestinal,faecal-oral
+47681,nonsevere,ssRNA(+),Enterovirus sp.,sustained human-to-human,gastrointestinal,faecal-oral
+481494,nonsevere,ssRNA(+),Human rhinovirus W11,sustained human-to-human,gastrointestinal,faecal-oral
+481497,nonsevere,ssRNA(+),Human rhinovirus W15,sustained human-to-human,gastrointestinal,faecal-oral
+481503,nonsevere,ssRNA(+),Human rhinovirus W24,sustained human-to-human,gastrointestinal,faecal-oral
+481504,nonsevere,ssRNA(+),Human rhinovirus W25,sustained human-to-human,gastrointestinal,faecal-oral
+481510,nonsevere,ssRNA(+),Human rhinovirus W35,sustained human-to-human,gastrointestinal,faecal-oral
+481513,nonsevere,ssRNA(+),Human rhinovirus W38,sustained human-to-human,gastrointestinal,faecal-oral
+496406,nonsevere,ssRNA(-),Hantavirus sdp1,sustained human-to-human,gastrointestinal,faecal-oral
+496408,nonsevere,ssRNA(-),Hantavirus sdp3,sustained human-to-human,gastrointestinal,faecal-oral
+497343,nonsevere,ssRNA(-),Hantavirus Case 1,no human-to-human,viraemic,direct contact
+497344,nonsevere,ssRNA(-),Hantavirus Case Itapua,no human-to-human,viraemic,direct contact
+497915,nonsevere,ssRNA(-),Hantavirus sdp2 YXL-2008,sustained human-to-human,gastrointestinal,faecal-oral
+537513,nonsevere,ssRNA(+),Human rhinovirus NH156,sustained human-to-human,gastrointestinal,faecal-oral
+537514,nonsevere,ssRNA(+),Human rhinovirus NH163,sustained human-to-human,gastrointestinal,faecal-oral
+537516,nonsevere,ssRNA(+),Human rhinovirus NH206,sustained human-to-human,gastrointestinal,faecal-oral
+537517,nonsevere,ssRNA(+),Human rhinovirus NH207,sustained human-to-human,gastrointestinal,faecal-oral
+537524,nonsevere,ssRNA(+),Human rhinovirus NH247,sustained human-to-human,gastrointestinal,faecal-oral
+537526,nonsevere,ssRNA(+),Human rhinovirus NH253,sustained human-to-human,gastrointestinal,faecal-oral
+537530,nonsevere,ssRNA(+),Human rhinovirus NH287,sustained human-to-human,gastrointestinal,faecal-oral
+537547,nonsevere,ssRNA(+),Human rhinovirus NH3555,sustained human-to-human,gastrointestinal,faecal-oral
+537550,nonsevere,ssRNA(+),Human rhinovirus NH3600,sustained human-to-human,gastrointestinal,faecal-oral
+537551,nonsevere,ssRNA(+),Human rhinovirus NH361,sustained human-to-human,gastrointestinal,faecal-oral
+537552,nonsevere,ssRNA(+),Human rhinovirus NH3629,sustained human-to-human,gastrointestinal,faecal-oral
+537553,nonsevere,ssRNA(+),Human rhinovirus NH363,sustained human-to-human,gastrointestinal,faecal-oral
+537557,nonsevere,ssRNA(+),Human rhinovirus NH3736,sustained human-to-human,gastrointestinal,faecal-oral
+537558,nonsevere,ssRNA(+),Human rhinovirus NH3750,sustained human-to-human,gastrointestinal,faecal-oral
+537559,nonsevere,ssRNA(+),Human rhinovirus NH379,sustained human-to-human,gastrointestinal,faecal-oral
+537560,nonsevere,ssRNA(+),Human rhinovirus NH384,sustained human-to-human,gastrointestinal,faecal-oral
+537561,nonsevere,ssRNA(+),Human rhinovirus NH385,sustained human-to-human,gastrointestinal,faecal-oral
+537563,nonsevere,ssRNA(+),Human rhinovirus NH3908,sustained human-to-human,gastrointestinal,faecal-oral
+537566,nonsevere,ssRNA(+),Human rhinovirus NH3963,sustained human-to-human,gastrointestinal,faecal-oral
+537573,nonsevere,ssRNA(+),Human rhinovirus NH4111,sustained human-to-human,gastrointestinal,faecal-oral
+537574,nonsevere,ssRNA(+),Human rhinovirus NH4130,sustained human-to-human,gastrointestinal,faecal-oral
+537577,nonsevere,ssRNA(+),Human rhinovirus NH4215,sustained human-to-human,gastrointestinal,faecal-oral
+537578,nonsevere,ssRNA(+),Human rhinovirus NH4299,sustained human-to-human,gastrointestinal,faecal-oral
+537584,nonsevere,ssRNA(+),Human rhinovirus NH4479,sustained human-to-human,gastrointestinal,faecal-oral
+537587,nonsevere,ssRNA(+),Human rhinovirus NH4545,sustained human-to-human,gastrointestinal,faecal-oral
+537588,nonsevere,ssRNA(+),Human rhinovirus NH53,sustained human-to-human,gastrointestinal,faecal-oral
+537589,nonsevere,ssRNA(+),Human rhinovirus NH62,sustained human-to-human,gastrointestinal,faecal-oral
+537591,nonsevere,ssRNA(+),Human rhinovirus NH71,sustained human-to-human,gastrointestinal,faecal-oral
+546680,nonsevere,ssRNA(+),Human rhinovirus hRVLz127,sustained human-to-human,gastrointestinal,faecal-oral
+546681,nonsevere,ssRNA(+),Human rhinovirus hRVLz13,sustained human-to-human,gastrointestinal,faecal-oral
+546682,nonsevere,ssRNA(+),Human rhinovirus hRVLz135,sustained human-to-human,gastrointestinal,faecal-oral
+546683,nonsevere,ssRNA(+),Human rhinovirus hRVLz144,sustained human-to-human,gastrointestinal,faecal-oral
+546692,nonsevere,ssRNA(+),Human rhinovirus hRVLz214,sustained human-to-human,gastrointestinal,faecal-oral
+546693,nonsevere,ssRNA(+),Human rhinovirus hRVLz218,sustained human-to-human,gastrointestinal,faecal-oral
+546694,nonsevere,ssRNA(+),Human rhinovirus hRVLz220,sustained human-to-human,gastrointestinal,faecal-oral
+546696,nonsevere,ssRNA(+),Human rhinovirus hRVLz239,sustained human-to-human,gastrointestinal,faecal-oral
+546697,nonsevere,ssRNA(+),Human rhinovirus hRVLz265,sustained human-to-human,gastrointestinal,faecal-oral
+546698,nonsevere,ssRNA(+),Human rhinovirus hRVLz267,sustained human-to-human,gastrointestinal,faecal-oral
+546700,nonsevere,ssRNA(+),Human rhinovirus hRVLz281,sustained human-to-human,gastrointestinal,faecal-oral
+546701,nonsevere,ssRNA(+),Human rhinovirus hRVLz287,sustained human-to-human,gastrointestinal,faecal-oral
+546702,nonsevere,ssRNA(+),Human rhinovirus hRVLz293,sustained human-to-human,gastrointestinal,faecal-oral
+546711,nonsevere,ssRNA(+),Human rhinovirus hRVLz332,sustained human-to-human,gastrointestinal,faecal-oral
+546714,nonsevere,ssRNA(+),Human rhinovirus hRVLz337,sustained human-to-human,gastrointestinal,faecal-oral
+546715,nonsevere,ssRNA(+),Human rhinovirus hRVLz343,sustained human-to-human,gastrointestinal,faecal-oral
+546722,nonsevere,ssRNA(+),Human rhinovirus hRVLz390,sustained human-to-human,gastrointestinal,faecal-oral
+546726,nonsevere,ssRNA(+),Human rhinovirus hRVLz8,sustained human-to-human,gastrointestinal,faecal-oral
+546727,nonsevere,ssRNA(+),Human rhinovirus hRVLz84,sustained human-to-human,gastrointestinal,faecal-oral
+546728,nonsevere,ssRNA(+),Human rhinovirus hRVLz86,sustained human-to-human,gastrointestinal,faecal-oral
+586421,nonsevere,ssRNA(+),Human cosavirus C,sustained human-to-human,gastrointestinal,faecal-oral
+611726,nonsevere,ssRNA(+),Human rhinovirus KR1768,sustained human-to-human,gastrointestinal,faecal-oral
+611728,nonsevere,ssRNA(+),Human rhinovirus KR1866,sustained human-to-human,gastrointestinal,faecal-oral
+611734,nonsevere,ssRNA(+),Human rhinovirus KR1956,sustained human-to-human,gastrointestinal,faecal-oral
+611737,nonsevere,ssRNA(+),Human rhinovirus KR2031,sustained human-to-human,gastrointestinal,faecal-oral
+611738,nonsevere,ssRNA(+),Human rhinovirus KR2063,sustained human-to-human,gastrointestinal,faecal-oral
+611739,nonsevere,ssRNA(+),Human rhinovirus KR2072,sustained human-to-human,gastrointestinal,faecal-oral
+611740,nonsevere,ssRNA(+),Human rhinovirus KR2098,sustained human-to-human,gastrointestinal,faecal-oral
+611741,nonsevere,ssRNA(+),Human rhinovirus KR2113,sustained human-to-human,gastrointestinal,faecal-oral
+611757,nonsevere,ssRNA(+),Human rhinovirus KR2311,sustained human-to-human,gastrointestinal,faecal-oral
+611758,nonsevere,ssRNA(+),Human rhinovirus KR2316,sustained human-to-human,gastrointestinal,faecal-oral
+611759,nonsevere,ssRNA(+),Human rhinovirus KR2320,sustained human-to-human,gastrointestinal,faecal-oral
+611761,nonsevere,ssRNA(+),Human rhinovirus KR2394,sustained human-to-human,gastrointestinal,faecal-oral
+611762,nonsevere,ssRNA(+),Human rhinovirus KR2398,sustained human-to-human,gastrointestinal,faecal-oral
+611763,nonsevere,ssRNA(+),Human rhinovirus KR2484,sustained human-to-human,gastrointestinal,faecal-oral
+611764,nonsevere,ssRNA(+),Human rhinovirus KR2606,sustained human-to-human,gastrointestinal,faecal-oral
+630716,nonsevere,ssRNA(+),Human rhinovirus SO5854,sustained human-to-human,gastrointestinal,faecal-oral
+630718,nonsevere,ssRNA(+),Human rhinovirus SO6666,sustained human-to-human,gastrointestinal,faecal-oral
+64318,nonsevere,ssRNA(+),Spondweni virus,sustained human-to-human,gastrointestinal,faecal-oral
+647367,nonsevere,ssRNA(+),Human rhinovirus W2,sustained human-to-human,gastrointestinal,faecal-oral
+647369,nonsevere,ssRNA(+),Human rhinovirus W3,sustained human-to-human,gastrointestinal,faecal-oral
+647372,nonsevere,ssRNA(+),Human rhinovirus W43,sustained human-to-human,gastrointestinal,faecal-oral
+647374,nonsevere,ssRNA(+),Human rhinovirus W46,sustained human-to-human,gastrointestinal,faecal-oral
+659265,nonsevere,ssRNA(+),Norovirus Hu/Afyon/65/2007/TR,sustained human-to-human,gastrointestinal,faecal-oral
+682383,nonsevere,ssRNA(+),HMO Astrovirus B,sustained human-to-human,gastrointestinal,faecal-oral
+682384,nonsevere,ssRNA(+),HMO Astrovirus C,sustained human-to-human,gastrointestinal,faecal-oral
+688450,nonsevere,ssRNA(+),Salivirus MN-2A,sustained human-to-human,gastrointestinal,faecal-oral
+688451,nonsevere,ssRNA(+),Salivirus MN-8F,sustained human-to-human,gastrointestinal,faecal-oral
+688452,nonsevere,ssRNA(+),Salivirus NG-11E,sustained human-to-human,gastrointestinal,faecal-oral
+688453,nonsevere,ssRNA(+),Salivirus NG-1F,sustained human-to-human,gastrointestinal,faecal-oral
+688454,nonsevere,ssRNA(+),Salivirus NG-7B,sustained human-to-human,gastrointestinal,faecal-oral
+688457,nonsevere,ssRNA(+),Salivirus NP-12C,sustained human-to-human,gastrointestinal,faecal-oral
+688458,nonsevere,ssRNA(+),Salivirus NP-4B,sustained human-to-human,gastrointestinal,faecal-oral
+688459,nonsevere,ssRNA(+),Salivirus NP-4H,sustained human-to-human,gastrointestinal,faecal-oral
+688461,nonsevere,ssRNA(+),Salivirus NP-6E,sustained human-to-human,gastrointestinal,faecal-oral
+688462,nonsevere,ssRNA(+),Salivirus NP-6F,sustained human-to-human,gastrointestinal,faecal-oral
+688463,nonsevere,ssRNA(+),Salivirus NP-8D,sustained human-to-human,gastrointestinal,faecal-oral
+688464,nonsevere,ssRNA(+),Salivirus TN-11C,sustained human-to-human,gastrointestinal,faecal-oral
+688465,nonsevere,ssRNA(+),Salivirus TN-5D,sustained human-to-human,gastrointestinal,faecal-oral
+688466,nonsevere,ssRNA(+),Salivirus TN-7E,sustained human-to-human,gastrointestinal,faecal-oral
+741957,nonsevere,ssRNA(+),Human rhinovirus C326876,sustained human-to-human,gastrointestinal,faecal-oral
+741958,nonsevere,ssRNA(+),Human rhinovirus C326878,sustained human-to-human,gastrointestinal,faecal-oral
+741959,nonsevere,ssRNA(+),Human rhinovirus N53728,sustained human-to-human,gastrointestinal,faecal-oral
+741960,nonsevere,ssRNA(+),Human rhinovirus N53729,sustained human-to-human,gastrointestinal,faecal-oral
+764239,nonsevere,ssRNA(+),Human rhinovirus A2134_180705,sustained human-to-human,gastrointestinal,faecal-oral
+764243,nonsevere,ssRNA(+),Human rhinovirus A2215_140905,sustained human-to-human,gastrointestinal,faecal-oral
+764266,nonsevere,ssRNA(+),Human enterovirus A2119_091204,sustained human-to-human,gastrointestinal,faecal-oral
+764267,nonsevere,ssRNA(+),Human enterovirus A2145_220205,sustained human-to-human,gastrointestinal,faecal-oral
+764268,nonsevere,ssRNA(+),Human enterovirus K1105_171204,sustained human-to-human,gastrointestinal,faecal-oral
+858567,nonsevere,ssRNA(+),Human cosavirus SH2,sustained human-to-human,gastrointestinal,faecal-oral
+858568,nonsevere,ssRNA(+),Human cosavirus SH3,sustained human-to-human,gastrointestinal,faecal-oral
+858569,nonsevere,ssRNA(+),Human cosavirus SH4,sustained human-to-human,gastrointestinal,faecal-oral
+858571,nonsevere,ssRNA(+),Human cosavirus SH6,sustained human-to-human,gastrointestinal,faecal-oral
+858573,nonsevere,ssRNA(+),Human cosavirus SH8,sustained human-to-human,gastrointestinal,faecal-oral
+862167,nonsevere,dsRNA,Rotavirus Hu/RJ/2006-08/Brazil/2006,sustained human-to-human,gastrointestinal,faecal-oral
+862168,nonsevere,dsRNA,Rotavirus Hu/RJ/2006-14/Brazil/2006,sustained human-to-human,gastrointestinal,faecal-oral
+862169,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-317/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862170,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-318/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862171,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-320/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862172,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-322/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862173,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-323/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862174,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-324/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862175,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-334/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862176,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-335/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862177,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-336/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862178,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-337/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862179,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-338/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862180,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-339/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862181,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-340/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862182,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-341/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+862183,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-342/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+864560,nonsevere,ssRNA(+),Human rhinovirus EBC6/Belgium/2009,sustained human-to-human,gastrointestinal,faecal-oral
+864623,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-356/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+864624,nonsevere,dsRNA,Rotavirus Hu/RJ/2008-357/Brazil/2008,sustained human-to-human,gastrointestinal,faecal-oral
+87786,nonsevere,ssRNA-RT,Human endogenous retrovirus W,sustained human-to-human,gastrointestinal,faecal-oral
+934413,nonsevere,ssRNA(-),Hantavirus Hu/CPVRP2/Batatais/BRA/2007,sustained human-to-human,gastrointestinal,faecal-oral
+937784,nonsevere,ssRNA(-),Hantavirus strain H700306,sustained human-to-human,other,respiratory
+941285,nonsevere,ssRNA(+),Human enterovirus C0801R,sustained human-to-human,gastrointestinal,faecal-oral
+941293,nonsevere,ssRNA(+),Human enterovirus F0501R,sustained human-to-human,gastrointestinal,faecal-oral
+941305,nonsevere,ssRNA(+),Human enterovirus H1098R,sustained human-to-human,gastrointestinal,faecal-oral
+941317,nonsevere,ssRNA(+),Human enterovirus O0702R,sustained human-to-human,gastrointestinal,faecal-oral
+999535,nonsevere,ssRNA(-/+),Phlebovirus XLL/China/2009,sustained human-to-human,gastrointestinal,faecal-oral

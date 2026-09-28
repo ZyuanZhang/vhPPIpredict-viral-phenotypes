@@ -46,7 +46,9 @@ Scripts for tissue tropism prediction are located in `./scripts/predict_tissue_t
 Scripts for HPV classification are located in `./scripts/predict_HPV_classification/`.
 
 ## Phenotype predictions of potentially human-infecting viruses
-Scripts for predicting phenotypes of potentially human-infecting viruses (low-confidence viruses) are located in `./scripts/scripts_for_updates/scripts_pred_low_confidence_update/` and the predicted results are located in `./mid_result_updated/low_confidience_predict/`
+- Scripts for predicting phenotypes of potentially human-infecting viruses (low-confidence viruses) are located in `./scripts/scripts_for_updates/scripts_pred_low_confidence_update/`. 
+
+- The predicted results are located in `./mid_result_updated/low_confidience_predict/`.
 
 
 ## How do I reference this work?

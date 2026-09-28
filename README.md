@@ -45,8 +45,9 @@ Scripts for tissue tropism prediction are located in `./scripts/predict_tissue_t
 ## High and low risk HPV classification
 Scripts for HPV classification are located in `./scripts/predict_HPV_classification/`.
 
+## Phenotype predictions of potentially human-infecting viruses
+Scripts for predicting phenotypes of potentially human-infecting viruses (low-confidence viruses) are located in `./scripts/scripts_for_updates/scripts_pred_low_confidence_update/` and the predicted results are located in `./mid_result_updated/low_confidience_predict/`
 
-## Citation
-```
 
-```
+## How do I reference this work?
+- Zhang, Z., Feng, Y., Ge, X., Meng, X. & Peng, Y. Virus-human protein-protein interactions predict viral phenotypes. bioRxiv 2026.06.12.732009 (2026) doi:10.64898/2026.06.12.732009.
